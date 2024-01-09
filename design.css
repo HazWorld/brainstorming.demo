@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mycontent{
+    margin: 0 auto;
+    width: 760px;
+}
+
+.topimg{
+    width:100%;
+    background-color: #2A6495;
+}
+
+.articleimg{
+    height: 0 auto;
+    width: 760px;
+
+}
+
+.myButton {
+    background-color: #4CAF50; /* Green background */
+    border: none;
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding around text */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer; /* Cursor style on hover */
+    border-radius: 5px; /* Rounded corners */
+  }
