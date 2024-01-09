@@ -31,3 +31,7 @@ body{
     cursor: pointer; /* Cursor style on hover */
     border-radius: 5px; /* Rounded corners */
   }
+
+  .myButton:hover {
+    background-color: #45a049; /* Darker green */
+  }
